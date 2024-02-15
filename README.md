@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitin0812
-- 👀 I’m interested in machine learning and game & graphics
-- 🌱 I’m currently learning c++ , machine learning using matlab
+- 👀 I’m a Ameture App developer
+- 🌱 I’m currently learning flutter, Xcode, Unity3D and Unreal engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail- nitin.0.raj@gmail.com
 
